@@ -40,6 +40,7 @@ button {
     padding: 20px;
     background: #eef6ff;
     border-radius: 10px;
+    text-align: left;
 }
 
 .result pre {
